@@ -9,6 +9,7 @@ namespace Nominas.UI
         {
             var d = new Directivo("Tio Gilito");
             var o = new Obrero("Pato Donald");
+		var j = new Obrero("Jaime");
 
             Console.Write(d);
             //Console.WriteLine("  Nomina: " + d.CalculaNomina(10));
